@@ -33,3 +33,10 @@ This project was developed for a Kaggle image captioning competition. It generat
 ## Notes
 - The model was trained and evaluated using Frechet Distance and other relevant metrics.
 - For more details, see the code in `submission.ipynb`.
+- You can download the competition dataset using the Kaggle CLI:
+
+```bash
+kaggle competitions download -c obss-intern-competition-2025
+```
+
+Unzip the downloaded files and place them in the project directory as needed.
